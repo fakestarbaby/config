@@ -1,0 +1,14 @@
+[user]
+	name = fakestarbaby
+	email = fakestarbaby@gmail.com
+[color]
+	ui = auto
+	diff = auto
+	status = auto
+	branch = auto
+[alias]
+	b = branch
+	c = checkout
+	d = diff
+	s = status
+	l = log
